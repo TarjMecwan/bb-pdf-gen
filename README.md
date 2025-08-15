@@ -18,7 +18,7 @@ Hello, my name is Tarj and I worked as a Software Engineer Intern on the Cloud t
 1. Clone the repository:
    ```bash
    git clone https://github.com/TarjMecwan/bb-pdf-gen.git
-   cd aec-pdf-generator
+   cd bb-pdf-gen
    ```
 
 2. Install the required dependencies:
