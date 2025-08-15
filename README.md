@@ -1,6 +1,6 @@
-# AEC PDF Generator
+# Bluebeam PDF Generator - Intern Project
 
-A web application for generating test PDFs with customizable sizes and AEC (Architecture, Engineering, and Construction) markups for testing Bluebeam and other AEC software.
+Hello, my name is Tarj and I worked as a Software Engineer Intern on the Cloud team during Summer 2025. As a side project, I built a tool that generates customizable PDF markdown files — allowing users to specify file size, content, shapes, tools, and metadata for more efficient and targeted testing.
 
 ## Features
 
@@ -17,7 +17,7 @@ A web application for generating test PDFs with customizable sizes and AEC (Arch
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TarjMecwan/bb-pdf-gen.git
    cd aec-pdf-generator
    ```
 
@@ -30,7 +30,7 @@ A web application for generating test PDFs with customizable sizes and AEC (Arch
 
 1. Start the Flask development server:
    ```bash
-   python app.py
+   python3 app.py
    ```
 
 2. Open your web browser and navigate to:
@@ -53,11 +53,3 @@ A web application for generating test PDFs with customizable sizes and AEC (Arch
 - ReportLab
 - PyPDF2
 - python-dotenv (for environment variables)
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
